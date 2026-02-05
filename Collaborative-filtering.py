@@ -8,7 +8,7 @@ from sklearn.metrics import pairwise_distances
 import math
 
 # define relative path for the files
-relative_path = "./parsed data/"
+relative_path = "./Parsed Data/"
 user_data_file = 'users.csv'
 movie_data_file = 'movies.csv'
 rating_data_file = 'ratings.csv'
